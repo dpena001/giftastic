@@ -29,12 +29,11 @@ label {
 }
 
 .items{
+	margin-right: 10px;
 	font-family: arial;
 	font-weight: bold;
 	float: left;
 	position: relative;
-	margin-right: 5px;
-	margin-bottom: 2px;
 
 }
 
