@@ -1,0 +1,40 @@
+body {
+	background-image: url("../images/fabric_1.png");
+	background-position: center;
+	background-repeat: repeat;
+}
+
+label {
+	font-family: arial;
+	font-weight: bold;
+}
+
+
+.btnarea{
+	margin-top: 5px;
+	height: 100px;
+}
+
+.form-control{
+	width: 300px;
+	height: 28px;
+}
+
+.btn-primary{
+	height: 30px;
+}
+
+.heightop{
+	margin-top: -10px;
+}
+
+.items{
+	font-family: arial;
+	font-weight: bold;
+	float: left;
+	position: relative;
+	margin-right: 5px;
+	margin-bottom: 2px;
+
+}
+
